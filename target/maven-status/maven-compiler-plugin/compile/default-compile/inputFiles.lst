@@ -1,0 +1,17 @@
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\mapper\DeptMapper.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\pojo\Result.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\TliasWebManagementApplication.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\utils\JwtUtils.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\service\DeptService.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\controller\DeptController.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\pojo\PageBean.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\service\impl\EmpServiceImpl.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\mapper\EmpMapper.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\controller\LoginController.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\controller\EmpController.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\service\impl\DeptServiceImpl.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\interceptor\LoginCheckInterceptor.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\pojo\Emp.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\service\EmpService.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\pojo\Dept.java
+D:\Idea\data\tlias-web-management\src\main\java\com\itheima\config\WebConfig.java
